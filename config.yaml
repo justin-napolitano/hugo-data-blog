@@ -1,6 +1,6 @@
 languageCode: "en-us"
 baseUrl: ""
-title: "Justin's Notes"
+title: "Justin's Data Blog"
 theme: "anubis"
 paginate: 10
 disqusShortname: "yourdiscussshortname"
@@ -14,10 +14,19 @@ menu:
     title: Archive
     url: /posts/
     weight: 0
+  - identifier: data-blog
+    name: Data Blog
+    title: Data Blog
+    url: /blog/
+    weight: 0
   - identifier: tags
     name: Tags
     url: /tags/
     weight: 1
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 2
 
 taxonomies:
   category: categories
