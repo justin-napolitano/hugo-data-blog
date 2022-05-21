@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: "data-blog.jnapolitano.io"
+baseUrl: "hugo-test-blog.jnapolitano.io"
 title: "Justin's Data Blog"
 theme: "anubis"
 paginate: 10
