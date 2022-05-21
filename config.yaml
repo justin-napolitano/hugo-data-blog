@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: ""
+baseUrl: "data-blog.jnapolitano.io"
 title: "Justin's Data Blog"
 theme: "anubis"
 paginate: 10
@@ -13,20 +13,16 @@ menu:
     name: Archive
     title: Archive
     url: /posts/
-    weight: 0
-  - identifier: data-blog
-    name: Data Blog
-    title: Data Blog
-    url: /blog/
-    weight: 0
+    weight: 3
   - identifier: tags
     name: Tags
     url: /tags/
-    weight: 1
+    weight: 2
   - identifier: categories
     name: Categories
     url: /categories/
-    weight: 2
+    weight: 1
+
 
 taxonomies:
   category: categories
