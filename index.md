@@ -1,12 +1,27 @@
 ---
-slug: "github-hugo-data-blog"
-title: "hugo-data-blog"
-repo: "justin-napolitano/hugo-data-blog"
-githubUrl: "https://github.com/justin-napolitano/hugo-data-blog"
-generatedAt: "2025-11-23T09:05:46.308202Z"
-source: "github-auto"
+slug: github-hugo-data-blog
+title: 'hugo-data-blog: Static Site with Reproducible Data Science and Neo4j Integration'
+repo: justin-napolitano/hugo-data-blog
+githubUrl: https://github.com/justin-napolitano/hugo-data-blog
+generatedAt: '2025-11-23T09:05:46.308202Z'
+source: github-auto
+summary: >-
+  Overview of a Hugo-based static blog combining reproducible Python analyses, geospatial
+  visualizations, and Neo4j graph database integration in energy and legal research.
+tags:
+  - hugo
+  - static-site
+  - data-science
+  - geospatial
+  - neo4j
+  - python
+seoPrimaryKeyword: hugo-data-blog
+seoSecondaryKeywords:
+  - static site generator
+  - neo4j integration
+  - geospatial data visualization
+seoOptimized: true
 ---
-
 
 # hugo-data-blog: Technical Overview and Implementation Notes
 
