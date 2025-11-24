@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - neo4j integration
   - geospatial data visualization
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers on a Hugo-based static blog integrating reproducible data science and Neo4j,
+  focusing on static site generation technology and content publishing, matching the 'static' family
+  description and examples.
 ---
 
 # hugo-data-blog: Technical Overview and Implementation Notes
@@ -80,3 +86,4 @@ Static blogs often lack the flexibility to present complex data-driven content w
 This repository exemplifies a technically rigorous approach to blogging that integrates static site generation with reproducible data science content. It is designed for developers and engineers who value transparency, reproducibility, and the ability to document complex workflows in a maintainable format.
 
 The blog serves as a reference for ongoing research in energy sector geospatial analysis, legal AI research, and economic modeling, supporting both content publication and personal knowledge management.
+
