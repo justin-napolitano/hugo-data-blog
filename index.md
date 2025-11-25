@@ -1,13 +1,13 @@
 ---
 slug: github-hugo-data-blog
-title: 'hugo-data-blog: Static Site with Reproducible Data Science and Neo4j Integration'
+title: Building a Data-Driven Blog with Hugo and Python
 repo: justin-napolitano/hugo-data-blog
 githubUrl: https://github.com/justin-napolitano/hugo-data-blog
 generatedAt: '2025-11-23T09:05:46.308202Z'
 source: github-auto
 summary: >-
-  Overview of a Hugo-based static blog combining reproducible Python analyses, geospatial
-  visualizations, and Neo4j graph database integration in energy and legal research.
+  Explore how to create a Hugo-based blog that integrates data science content,
+  geospatial analysis, and reproducible code for technical documentation.
 tags:
   - hugo
   - static-site
@@ -15,18 +15,27 @@ tags:
   - geospatial
   - neo4j
   - python
-seoPrimaryKeyword: hugo-data-blog
+  - geospatial analysis
+  - data visualization
+  - static site generation
+  - markdown
+  - economic modeling
+seoPrimaryKeyword: hugo data blog implementation
 seoSecondaryKeywords:
   - static site generator
-  - neo4j integration
-  - geospatial data visualization
+  - data-driven content
+  - reproducible research
+  - geospatial data workflows
+  - graph database integration
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post centers on a Hugo-based static blog integrating reproducible data science and Neo4j,
-  focusing on static site generation technology and content publishing, matching the 'static' family
-  description and examples.
+  The post centers on a Hugo-based static blog integrating reproducible data
+  science and Neo4j, focusing on static site generation technology and content
+  publishing, matching the 'static' family description and examples.
+kind: project
+id: github-hugo-data-blog
 ---
 
 # hugo-data-blog: Technical Overview and Implementation Notes
