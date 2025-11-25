@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/hugo-data-blog
 generatedAt: '2025-11-24T21:35:05.196Z'
 source: github-auto
 summary: >-
-  Explore a Hugo-based blog focused on data analysis, geospatial visualizations,
-  and economic modeling in various sectors.
+  Explore a Hugo-based blog focused on data analysis, geospatial visualizations, and economic
+  modeling in various sectors.
 tags:
   - hugo
   - static site generator
@@ -27,8 +27,8 @@ seoSecondaryKeywords:
   - python data processing
   - Hugo Anubis theme
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -117,4 +117,5 @@ The generated site will be in the `public/` directory.
 ---
 
 For more information, visit the live site or contact the author at justin@jnapolitano.io.
+
 
