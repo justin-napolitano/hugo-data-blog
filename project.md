@@ -1,14 +1,14 @@
 ---
 slug: github-hugo-data-blog
 id: github-hugo-data-blog
-title: 'Hugo Data Blog: A Static Site for Data-Driven Posts'
+title: 'Hugo Data Blog: A Static Site for Data-Driven Insights'
 repo: justin-napolitano/hugo-data-blog
 githubUrl: https://github.com/justin-napolitano/hugo-data-blog
 generatedAt: '2025-11-24T21:35:05.196Z'
 source: github-auto
 summary: >-
-  Explore a Hugo-based blog focused on geospatial and economic data analysis
-  with features for rich content and user engagement.
+  Explore a Hugo-based blog focused on data analysis, geospatial visualizations,
+  and economic modeling in various sectors.
 tags:
   - hugo
   - static site generator
@@ -17,10 +17,12 @@ tags:
   - python
   - neo4j
   - data visualization
+  - geospatial analysis
+  - disqus
 seoPrimaryKeyword: hugo data blog
 seoSecondaryKeywords:
   - static site generator blog
-  - geospatial analysis blog
+  - geospatial data analysis
   - economic data blog
   - python data processing
   - Hugo Anubis theme
